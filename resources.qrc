@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>resources/checkmark.png</file>
+        <file>resources/loader.gif</file>
+    </qresource>
+</RCC>

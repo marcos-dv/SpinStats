@@ -5,4 +5,5 @@ Tool for density of regular players analysis, graphics with QT and Expected Valu
 Based on Lazarcf Project:
 https://github.com/lazarcf/SpinStats/
 
-More functionalities: graphics, bugs fixed, extended function, commented code, restructed classes for data representation.
+New functionalities: graphics, bugs fixed, extended function, commented code, restructed classes for data representation and refactored code.
+

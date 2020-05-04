@@ -1,9 +1,8 @@
 # SpinStats
 
-Tool for filtering specific positions vs regs, even filtering vs specific types of regs; splitting a PT4 database into 0/1/2 reg games databases for easier analysis.
+Tool for density of regular players analysis, graphics with QT and Expected Value on Poker. Data loaded from a PostgreSQL database. Written in C++.
 
-Demo : https://www.youtube.com/watch?v=q4RjNeinERQ
+Based on Lazarcf Project:
+https://github.com/lazarcf/SpinStats/
 
-Tutorial : https://youtu.be/rF6dvLqDZaI
-
-This project is not longer supported
+More functionalities: graphics, bugs fixed, extended function, commented code, restructed classes for data representation.
